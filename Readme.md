@@ -10,7 +10,7 @@ The dashboard enables stakeholders to identify infrastructure gaps, monitor netw
 
 Dashboard Preview
 
-![](image.png)
+![](Dashboard.png)
 
 Business Problem
 
